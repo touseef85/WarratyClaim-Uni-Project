@@ -31,7 +31,7 @@ const Portfolio = () => {
         <div className="bg-orange-600 h-1 w-16 rounded"></div>
       </div>
       <p className="text-gray-700 text-center mt-7 mb-10 text-lg">
-        Explore Our Live Courses & Make Bharat ka Career Launchpad
+        Explore Our hello asdf Courses & Make Bharat ka Career Launchpad
       </p>
 
       {/* Images */}
